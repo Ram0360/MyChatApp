@@ -1,0 +1,36 @@
+.online-icon {
+    height: 15px;
+}
+
+.close-icon{
+    height: 15px;
+}
+
+.InfoBar {
+    background-color: cadetblue;
+    padding: 25px;
+}
+
+/* .container {
+    background-color: cadetblue;
+    padding: 14px;
+}
+
+.outerContainer {
+    padding: 5px;
+}
+
+.right-container {
+    display: grid;
+    text-align: right;
+} */
+
+.left-container {
+    display: grid;
+    float: left;
+    padding: 5px;
+}
+
+h3.room-name {
+    color: lightyellow;
+}
